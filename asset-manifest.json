@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/goReact_02/static/css/main.4b9fc0aa.css",
+    "main.js": "/goReact_02/static/js/main.f0c54971.js",
+    "index.html": "/goReact_02/index.html",
+    "main.4b9fc0aa.css.map": "/goReact_02/static/css/main.4b9fc0aa.css.map",
+    "main.f0c54971.js.map": "/goReact_02/static/js/main.f0c54971.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b9fc0aa.css",
+    "static/js/main.f0c54971.js"
+  ]
+}
