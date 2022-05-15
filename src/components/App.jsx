@@ -59,12 +59,11 @@ class App extends Component {
           )}
         </Section>
       </Container>
-      
     );
   }
 }
 
-
+//..
 export default App;
 
 
