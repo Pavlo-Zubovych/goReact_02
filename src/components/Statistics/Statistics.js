@@ -20,6 +20,11 @@ const Statistics = ({ good, neutral, bad, total, positivePersentage }) => {
       </li>
 
       <li className={styles.Item}>
+        <p className={styles.Text}> Total </p>
+        <p className={styles.Statistics}> {total} </p>
+      </li>
+
+      <li className={styles.Item}>
         <p className={styles.Text}> Positive feedback </p>
         <p className={styles.Statistics}> {positivePersentage}% </p>
       </li>
